@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Chrome Extension Starter Built With React Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello World Chrome extension boilerplate app using react and typescript
 
 ## Available Scripts
 
